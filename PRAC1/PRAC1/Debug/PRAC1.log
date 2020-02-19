@@ -1,0 +1,11 @@
+﻿  PRAC1.cpp
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(34,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(34,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(36,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(36,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(38,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(39,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(73,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(246,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\shael\source\repos\PRAC1\PRAC1\PRAC1.cpp(247,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PRAC1.vcxproj -> C:\Users\shael\source\repos\PRAC1\Debug\PRAC1.exe
